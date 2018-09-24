@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">解析JSON</string>
     <string name="receive">接收返回并解析对象简谱</string>
 </resources>
